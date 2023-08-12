@@ -28,7 +28,7 @@ from database import dbworker
 db = dbworker('db.db')
 
 #инициализируем бота
-bot = Bot(token=config.TOKEN)
+bot = Bot(token=config.6594638183:AAHFPWNdrwrqwpzDD14LwDV6of46L7QTpkc)
 dp = Dispatcher(bot,storage=MemoryStorage())
 
 #логирование
